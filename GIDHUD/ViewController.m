@@ -19,6 +19,7 @@
     NSString * str = [NSString stringWithFormat:@"helloworld"];
     NSLog(@"%@",str);
     NSLog(@"1111110");
+    NSlog(@"这里面没有提示");
 }
 
 - (void)didReceiveMemoryWarning {
